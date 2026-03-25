@@ -36,7 +36,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/diariodeunparki # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
-    - https://www.facebook.com/diariodeunparkinsoni # change to your Facebook homepage
+    - https://www.facebook.com/diariodeunparkinsoniano # change to your Facebook homepage
     - https://www.linkedin.com/in/aliberal # change to your LinkedIn homepage
     - https://www.instagram.com/diariodeunparkinsoniano # change to your Instagram
 
@@ -99,7 +99,7 @@ avatar: /assets/images/relatos.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: /assets/images/bg-relatos.png # string, local or CORS resources
+social_preview_image: /assets/images/bg-relatos.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
