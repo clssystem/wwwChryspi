@@ -9,45 +9,42 @@ theme: jekyll-theme-chirpy
 lang: es-ES
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
+timezone: Europe/Madrid
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Mis relatos # the main title
+title: Relatos de Antonio Liberal # the main title
 
-tagline: por Antonio Liberal # it will display as the subtitle
+tagline: Un blog dedicado a la escritura de relatos breves.
 
-description: >- descripción # used by seo meta and the atom feed
-  Unos relatos.
+description: Este blog está dedicado a la escritura por afición y es totalmente gratuito. # the description of your site, it will be displayed in search results and social media cards.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
-
-githubx:
-  username: github_username # change to your GitHub username
+url: "https://misrelatos.cls-system.es"
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: diariodeunparki # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Antonio Liberal Irigoyen
-  email: diariodeunparkinsoniano@outlook.com # change to your email address
+  email: diariodeunparkinsoniano@outlook.es # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    - https://twitter.com/diariodeunparki # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/diariodeunparkinsoni # change to your Facebook homepage
+    - https://www.linkedin.com/in/aliberal # change to your LinkedIn homepage
+    - https://www.instagram.com/diariodeunparkinsoniano # change to your Instagram
+
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
-  bing: # fill in your Bing verification code
+  google: jXvCe3S__OvDumCHcPkx_tDxl1Brl0ES0_eUdjsyHcM # fill in your Google verification code
+  bing: 5212240702B56FC84576AF485CD6969C # fill in your Bing verification code 
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
   baidu: # fill in your Baidu verification code
@@ -59,7 +56,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-NP2LK2K9BP # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -98,21 +95,21 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/images/relatos.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: /assets/images/bg-relatos.png # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+  provider: disqus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
-    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: antonioliberalirigoyen # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
