@@ -1,9 +1,9 @@
 ---
-title: Actualizados recientemente
+title: Actualizado recientemente
 icon: fas fa-history
 order: 30
 ---
-<!-- Sección de Actualizados Recientemente -->
+<!-- Sección de Actualizado Recientemente -->
 <div class="mt-4">
   <ul class="list-unstyled">
     {% assign updated_posts = site.posts | sort: "last_modified_at" | reverse %}
