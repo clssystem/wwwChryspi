@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 6
 image:
   path: /assets/images/bg-relatos.jpg
   alt: image alternative text
