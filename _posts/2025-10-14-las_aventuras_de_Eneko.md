@@ -15,6 +15,7 @@ order: 4
 ## Introducción
 
 Esta es la historia de Eneko Jorajuría, de sus aventuras y desventuras en un mundo basado en hechos históricos totalmente inventados por mí.
+Iré añadiendo más capítulos (al final o en medio), según mi parecer.
 
 ## La promesa
 
