@@ -80,8 +80,8 @@ layout: compress
       {% assign _include_path = _include | append: '.html' %}
       {% include {{ _include_path }} %}
     {% endfor %}
+    {% include cookie-consent.html%}
     
     {% include_cached search-loader.html lang=lang %}
-    {% include_cached cookie-consent.html%}
   </body>
 </html>
