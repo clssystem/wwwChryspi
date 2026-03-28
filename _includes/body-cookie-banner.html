@@ -77,12 +77,12 @@
 </style>
 
 <script>
-  // Mostrar si no hay elección previa
+  
   if (!localStorage.getItem('cookie-consent')) {
     document.getElementById('cookie-banner').style.display = 'block';
   }
 
-  // Función para mostrar el banner manualmente
+  
   function showCookieBanner(e) {
     if (e) e.preventDefault(); // Evita que la página suba al inicio
     document.getElementById('cookie-banner').style.display = 'block';
@@ -91,6 +91,8 @@
     const consentValue = status === 'granted' ? 'granted' : 'denied';
     
     // Actualizar Google Tag Manager (Consent Mode v2)
+
+
     gtag('consent', 'update', {
       'ad_storage': consentValue,
       'ad_user_data': consentValue,
