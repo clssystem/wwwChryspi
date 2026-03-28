@@ -2,7 +2,9 @@
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-
+    const GA_ID = '{{ site.google_analytics.id }}';
+    gtag('config', GA_ID);
+  
   var savedConsent = localStorage.getItem('cookie-consent') === 'granted' ? 'granted' : 'denied';
 
   gtag('consent', 'default', {
