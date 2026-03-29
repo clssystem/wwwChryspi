@@ -1,242 +1,696 @@
 ---
-title: "Las aventuras de Eneko"
+title: "Las aventuras de Eneko Jorajuría"
 date: 2025-10-14 06:00
 author: diariodeunparkinsoniano
 comments: true
-categories: [Ficción Histórica, Eneko]
+categories: [Ficción Histórica, Siglo de Oro español]
 tags: [Las aventuras de Eneko] 
-description: 'Aventuras y desventuras de un personaje ficticio, Eneko Jorajuría'
+description: 'Aventuras y desventuras de un personaje ficticio, Eneko Jorajuría, en la época del Imperio español (siglos XVI y XVII)'
 image:
   path: /assets/images/eneko.png
   alt: Las aventuras de Eneko
 order: 4
 ---
-
 ## Introducción
 
-Esta es la historia de Eneko Jorajuría, de sus aventuras y desventuras en un mundo basado en hechos históricos totalmente inventados por mí.
-Iré añadiendo más capítulos, según mi parecer.
+Esta es la historia de Eneko Jorajuría, de sus aventuras y desventuras en un mundo basado en hechos históricos totalmente inventados por mí y que más o menos se ubica en el Siglo de Oro, en la época del Imperio español (finales del siglo XVI y comienzos del XVII).
+
+Iré añadiendo más capítulos, o completando los existentes, según el tiempo que pueda dedicarle a esto de aporrear teclas.
 
 ## La promesa
 
-«¡Ya eres mío!», se dijo el joven Eneko mientras vigilaba con impaciencia el camino por el que un escuálido jabalí descendía por la ladera del monte para saciar su sed en el arroyo. Hacía ya unos días que lo tenía localizado: lo habían delatado las huellas de sus pezuñas, marcadas de manera muy profunda en el sendero, y el rastro de los mechones de su pelo recio, enredados en las zarzas que estrechaban el camino. 
+*«¡Ya eres mío!»*, se dijo el joven Eneko mientras vigilaba con
+impaciencia el camino por el que un escuálido jabalí descendía por la
+ladera del monte para saciar su sed en el arroyo. Hacía ya unos días que
+lo tenía localizado: lo habían delatado las huellas de sus pezuñas,
+marcadas de manera muy profunda en el sendero, y el rastro de los
+mechones de su pelo recio, enredados en las zarzas que estrechaban el
+camino.
 
-—Recuerda, Eneko. Para cazar un jabalí lo primero es encontrar su rastro y colocar un lazo para atraparlo –le había dicho su padre hacía ya algún tiempo, mientras se sacudían el frio del cuerpo calentándose en la lumbre del caserío en el que vivían—. Debes utilizar un alambre fuerte y grueso y tienes que hacer un nudo corredizo de esta manera. Así, cuanto más tire el bicho, más quedará atrapado. Asegúrate de atar el otro extremo del alambre, anudándolo lo más fuerte posible a algún árbol cercano. 
+---Recuerda, Eneko. Para cazar un jabalí lo primero es encontrar su
+rastro y colocar un lazo para atraparlo --le había dicho su padre hacía
+ya algún tiempo, mientras se sacudían el frio del cuerpo calentándose en
+la lumbre del caserío en el que vivían---. Debes utilizar un alambre
+fuerte y grueso y tienes que hacer un nudo corredizo de esta manera.
+Así, cuanto más tire el bicho, más quedará atrapado. Asegúrate de atar
+el otro extremo del alambre, anudándolo lo más fuerte posible a algún
+árbol cercano.
 
-—Sí, padre —asintió Eneko, atento a sus explicaciones. 
+---Sí, padre ---asintió Eneko, atento a sus explicaciones.
 
-—Los jabalíes son muy listos. Procura que no te huela, porque si lo hace no caerá en la trampa. Si consigues atraparlo utiliza esta hacha para asestarle un golpe mortal —continuó explicando el padre—. Si lo dejas malherido, ya puedes salir corriendo como alma que lleva el diablo para salvarte. 
+---Los jabalíes son muy listos. Procura que no te huela, porque si lo
+hace no caerá en la trampa. Si consigues atraparlo utiliza esta hacha
+para asestarle un golpe mortal ---continuó explicando el padre---. Si lo
+dejas malherido, ya puedes salir corriendo como alma que lleva el diablo
+para salvarte.
 
-—Sí, padre —volvió a asentir Eneko, al tiempo que guardaba el hacha en su morral de piel de cordero que siempre llevaba con él a todas partes. 
+---Sí, padre ---volvió a asentir Eneko, al tiempo que guardaba el hacha
+en su morral de piel de cordero que siempre llevaba con él a todas
+partes.
 
-Un poco antes de esconderse, Eneko había colocado el lazo en el sendero. Para camuflar su olor se había restregado todo el cuerpo con un manojo de flores que había arrancado de cuajo, de las pocas que salpicaban el prado en el que se encontraba. Acuciado por el hambre, no pudo evitar dar un bocado al aire como si saborease la miel que hacía su madre con aquellas flores, y de la que ya no quedaba ni rastro en la alacena. 
+Un poco antes de esconderse, Eneko había colocado el lazo en el sendero.
+Para camuflar su olor se había restregado todo el cuerpo con un manojo
+de flores que había arrancado de cuajo, de las pocas que salpicaban el
+prado en el que se encontraba. Acuciado por el hambre, no pudo evitar
+dar un bocado al aire como si saborease la miel que hacía su madre con
+aquellas flores, y de la que ya no quedaba ni rastro en la alacena.
 
-—Está siendo una época muy dura. En la aldea está muriendo mucha gente de hambre —le había escuchado decir a su madre. 
+---Está siendo una época muy dura. En la aldea está muriendo mucha gente
+de hambre ---le había escuchado decir a su madre.
 
-—Yo cada vez estoy más débil —había comentado el padre, con un hilillo de voz casi imperceptible. 
+---Yo cada vez estoy más débil ---había comentado el padre, con un
+hilillo de voz casi imperceptible.
 
-No tenían apenas nada que llevarse a la boca. Casi no había llovido, así que la cosecha había sido muy escasa. 
+No tenían apenas nada que llevarse a la boca. Casi no había llovido, así
+que la cosecha había sido muy escasa.
 
-El crujir de la hojarasca hizo que la adrenalina de su cuerpo se disparase, poniéndolo aún más nervioso. 
+El crujir de la hojarasca hizo que la adrenalina de su cuerpo se
+disparase, poniéndolo aún más nervioso.
 
-—Eneko, no puedes fallar. Yo ya no puedo acompañarte a cazar, sería un estorbo para ti —le había dicho su padre—. Necesitamos comer. Con un jabalí nos aseguraremos el alimento durante una buena temporada. 
+---Eneko, no puedes fallar. Yo ya no puedo acompañarte a cazar, sería un
+estorbo para ti ---le había dicho su padre---. Necesitamos comer. Con un
+jabalí nos aseguraremos el alimento durante una buena temporada.
 
-El animal se iba acercando lentamente, olisqueando con precaución, mientras Eneko empuñaba con fuerza el hacha, decidido a conseguir su objetivo, cada vez más nervioso. Permaneció inmóvil hasta que los gruñidos de desesperación del bicho al caer en la trampa rompieron el silencio y tensaron al máximo sus músculos. Como un poseso se abalanzó sobre el animal, asestándole un hachazo certero en el cuello del que brotó un abundante torrente de sangre. El jabalí se retorció hasta caer al suelo fulminado, mientras Eneko, bañado en sangre, recordaba emocionado la última conversación con su padre. 
+El animal se iba acercando lentamente, olisqueando con precaución,
+mientras Eneko empuñaba con fuerza el hacha, decidido a conseguir su
+objetivo, cada vez más nervioso. Permaneció inmóvil hasta que los
+gruñidos de desesperación del bicho al caer en la trampa rompieron el
+silencio y tensaron al máximo sus músculos. Como un poseso se abalanzó
+sobre el animal, asestándole un hachazo certero en el cuello del que
+brotó un abundante torrente de sangre. El jabalí se retorció hasta caer
+al suelo fulminado, mientras Eneko, bañado en sangre, recordaba
+emocionado la última conversación con su padre.
 
-—Hijo, cuida de tu madre —le había dicho un poco antes de morir, sentenciado por el hambre—. Ahora tú eres el hombre de la casa. Te quiero mucho. 
+---Hijo, cuida de tu madre ---le había dicho un poco antes de morir,
+sentenciado por el hambre---. Ahora tú eres el hombre de la casa. Te
+quiero mucho.
 
-—Sí, padre —había asentido Eneko por última vez, derrotado y abatido, mientras las lágrimas humedecían sus ojos—. Se lo prometo. 
+---Sí, padre ---había asentido Eneko por última vez, derrotado y
+abatido, mientras las lágrimas humedecían sus ojos---. Se lo prometo.
 
 ## El nuevo Eneko
 
-—¡Lo conseguí! —dijo triunfante el joven Eneko mientras admiraba al animal que acababa de matar de un hachazo en el cuello, un jabalí joven de mediano tamaño de unas cinco arrobas de peso.
+—¡Lo conseguí! —dijo triunfante el joven Eneko mientras admiraba al
+animal que acababa de matar de un hachazo en el cuello, un jabalí joven
+de mediano tamaño de unas cinco arrobas de peso.
 
-Exhausto, se tumbó en la hierba, al lado de su presa, para descansar y recobrar el aliento. Poco a poco, su pulso fue volviendo a la normalidad. 
+Exhausto, se tumbó en la hierba, al lado de su presa, para descansar y
+recobrar el aliento. Poco a poco, su pulso fue volviendo a la
+normalidad.
 
-«No tengo tiempo que perder. He de quitarle las vísceras lo antes posible, para que su carne no se estropee, como me enseñó padre», pensó ya más calmado. 
+«No tengo tiempo que perder. He de quitarle las vísceras lo antes
+posible, para que su carne no se estropee, como me enseñó padre», pensó
+ya más calmado.
 
-Cogió el extremo de una cuerda y lo anudó con firmeza alrededor de las pezuñas traseras del jabalí. El otro extremo lo lanzó hacia las ramas de un árbol cercano, de manera que la cuerda quedó suspendida en el aire. Finalmente, tiró con fuerza hasta que el animal quedó colgado boca abajo: por efecto de la gravedad el verraco se desangró, salpicando todo el terreno. 
+Cogió el extremo de una cuerda y lo anudó con firmeza alrededor de las
+pezuñas traseras del jabalí. El otro extremo lo lanzó hacia las ramas de
+un árbol cercano, de manera que la cuerda quedó suspendida en el aire.
+Finalmente, tiró con fuerza hasta que el animal quedó colgado boca
+abajo: por efecto de la gravedad el verraco se desangró, salpicando todo
+el terreno.
 
-Sin perder tiempo, decapitó al bicho con el hacha y lo abrió en canal. Después, extrajo con cuidad sus vísceras, retirándolas del cuerpo del jabalí con su cuchillo de monte: hígado, corazón, pulmones y riñones acabaron envueltos en paños y guardados en un saco; el resto de las vísceras fueron desechadas. 
+Sin perder tiempo, decapitó al bicho con el hacha y lo abrió en canal.
+Después, extrajo con cuidado sus vísceras, retirándolas del cuerpo del
+jabalí con su cuchillo de monte: hígado, corazón, pulmones y riñones
+acabaron envueltos en paños y guardados en un saco; el resto de las
+vísceras fueron desechadas.
 
-Fabricó una camilla improvisada con dos ramas, lo suficientemente resistente como para poder cargar la preciada carne. «¡Cómo pesa el condenado!», se dijo mientras empujaba la camilla ladera abajo, deshaciendo el camino hacia el caserío familiar. 
+Fabricó una camilla improvisada con dos ramas, lo suficientemente
+resistente como para poder cargar la preciada carne. «¡Cómo pesa el
+condenado!», se dijo mientras empujaba la camilla ladera abajo,
+deshaciendo el camino hacia el caserío familiar.
 
-—Sigue el curso del riachuelo que atraviesa el bosque, así nunca te perderás —le había dicho su padre—. Es el camino más rápido y seguro para llegar a casa, aunque la niebla te envuelva o la nieve borre tu rastro. 
+—Sigue el curso del riachuelo que atraviesa el bosque, así nunca te
+perderás —le había dicho su padre—. Es el camino más rápido y seguro
+para llegar a casa, aunque la niebla te envuelva o la nieve borre tu
+rastro.
 
-«Está llegando el atardecer. Tengo que apresurarme, estoy tan cansado que casi no me tengo en pie, y aún me queda un buen trecho», se dijo. 
+«Está llegando el atardecer. Tengo que apresurarme, estoy tan cansado
+que casi no me tengo en pie, y aún me queda un buen trecho», se dijo.
 
-Mientras seguía el curso del arroyo arrastrando la pesada carga, se sentía feliz por primera vez en mucho tiempo: silbaba y sonreía alegremente, pensando en lo contenta y orgullosa que iba a sentirse su madre. Por fin podrían saciar el hambre, acallando los rugidos de sus estómagos. Incluso, con un poco de suerte, sobrevivirían hasta la recogida de la siguiente cosecha de cereales. 
+Mientras seguía el curso del arroyo arrastrando la pesada carga, se
+sentía feliz por primera vez en mucho tiempo: silbaba y sonreía
+alegremente, pensando en lo contenta y orgullosa que iba a sentirse su
+madre. Por fin podrían saciar el hambre, acallando los rugidos de sus
+estómagos. Incluso, con un poco de suerte, sobrevivirían hasta la
+recogida de la siguiente cosecha de cereales.
 
-El crujido de unas ramas lo puso en alerta, parándose en seco: un lobo, de color blanco y aspecto famélico, se interponía en su camino enseñándole los dientes, gruñendo de manera amenazadora. 
+El crujido de unas ramas lo puso en alerta, parándose en seco: un lobo,
+de color blanco y aspecto famélico, se interponía en su camino
+enseñándole los dientes, gruñendo de manera amenazadora.
 
-«Eneko, piensa rápido o esta fiera va a dar al traste con todos tus planes», se dijo temblando de miedo. 
+«Eneko, piensa rápido o esta fiera va a dar al traste con todos tus
+planes», se dijo temblando de miedo.
 
-—Vamos a hacer un pacto, hermano lobo —le dijo al animal mirándole a los ojos—. Aquí hay comida suficiente para los dos: dejaré el corazón del jabalí junto a este árbol para que sacies tu hambre y veas que te trato con respeto. A cambio, te pido que te apartes y me dejes seguir mi camino. 
+—Vamos a hacer un pacto, hermano lobo —le dijo al animal mirándole a
+los ojos—. Aquí hay comida suficiente para los dos: dejaré el corazón
+del jabalí junto a este árbol para que sacies tu hambre y veas que te
+trato con respeto. A cambio, te pido que te apartes y me dejes seguir mi
+camino.
 
-Depositó el corazón en el suelo, muy despacio, y se retiró sin hacer movimientos bruscos. El lobo se acercó y lo olisqueó con cautela y, como si hubiese entendido sus palabras, atrapó el corazón con sus fauces y desapareció corriendo, saltando entre los arbustos del bosque. 
+Depositó el corazón en el suelo, muy despacio, y se retiró sin hacer
+movimientos bruscos. El lobo se acercó y lo olisqueó con cautela y, como
+si hubiese entendido sus palabras, atrapó el corazón con sus fauces y
+desapareció corriendo, saltando entre los arbustos del bosque.
 
-«Ufff…, de la que me he librado», respiró ya más tranquilo. 
+«Ufff..., de la que me he librado», respiró ya más tranquilo.
 
-La oscuridad, poco a poco, iba echándose encima. El Sol se ocultaba en el horizonte, tiñendo de ocre las nubes del cielo, haciendo que el frío y la humedad calaran en los huesos a Eneko. 
+La oscuridad, poco a poco, iba echándose encima. El Sol se ocultaba en
+el horizonte, tiñendo de ocre las nubes del cielo, haciendo que el frío
+y la humedad calaran en los huesos a Eneko.
 
-«Ya casi estoy llegando, en seguida veré el tejado de nuestra casa», pensó mientras sus ojos se iluminaban de la emoción y apretaba el paso. 
+«Ya casi estoy llegando, en seguida veré el tejado de nuestra casa»,
+pensó mientras sus ojos se iluminaban de la emoción y apretaba el paso.
 
-Al doblar el último recodo, ya saliendo del bosque, se detuvo horrorizado: el caserío ardía en llamas, y un fuerte olor a quemado se extendía por el aire. Sin pensárselo dos veces, salió corriendo, dejando el jabalí tirado en el suelo. 
+Al doblar el último recodo, ya saliendo del bosque, se detuvo
+horrorizado: el caserío ardía en llamas, y un fuerte olor a quemado se
+extendía por el aire. Sin pensárselo dos veces, salió corriendo, dejando
+el jabalí tirado en el suelo.
 
-El paisaje era dantesco: la estructura del caserío, formada por varias vigas centenarias de roble, estaba prácticamente calcinada por el fuego; el tejado, hecho de robustos tablones de madera de haya, había desaparecido por completo. Tan sólo quedaban en pie las gruesas paredes de piedra, que no habían podido ser destruidas pasto de las llamas. 
+El paisaje era dantesco: la estructura del caserío, formada por varias
+vigas centenarias de roble, estaba prácticamente calcinada por el fuego;
+el tejado, hecho de robustos tablones de madera de haya, había
+desaparecido por completo. Tan sólo quedaban en pie las gruesas paredes
+de piedra, que no habían podido ser destruidas pasto de las llamas.
 
-Todo, absolutamente todo, estaba perdido. De repente, un sentimiento de inquietud invadió su cuerpo. 
+Todo, absolutamente todo, estaba perdido. De repente, un sentimiento de
+inquietud invadió su cuerpo.
 
-—¡Madre! ¡Madre! —gritó desesperado mientras buscaba entre los restos calcinados, abrasándose las manos con el fuego. 
+—¡Madre! ¡Madre! —gritó desesperado mientras buscaba entre los
+restos calcinados, abrasándose las manos con el fuego.
 
-Impotente, se arrodilló y empezó a golpear el suelo con sus puños, que se fue tiñendo del rojo de su sangre. 
+Impotente, se arrodilló y empezó a golpear el suelo con sus puños, que
+se fue tiñendo del rojo de su sangre.
 
-—¡Maldita sea! ¿Qué demonios ha pasado aquí? —imploró al cielo con las lágrimas brotando de sus ojos. 
+—¡Maldita sea! ¿Qué demonios ha pasado aquí? —imploró al cielo con
+las lágrimas brotando de sus ojos.
 
-Como si se escuchasen sus plegarias, una voz no muy lejos de él surgió de la oscuridad, que ya era completa. 
+Como si se escuchasen sus plegarias, una voz no muy lejos de él surgió
+de la oscuridad, que ya era completa.
 
-—No busques más, Eneko: tu madre está muerta. Lo siento mucho, pero no pude hacer nada para salvarla —dijo la voz quejumbrosa de Xalbador, uno de sus vecinos—. Han sido los soldados del conde de Eunate, nuestro vil enemigo. Cegados por el hambre han ido caserío por caserío, intentando llevarse lo poco que nos quedaba —prosiguió—. Ya sabes cómo es tu madre: se ha negado rotundamente, enfrentándose a ellos con valentía. Como represalia, han quemado el caserío con ella dentro. Intenté impedirlo, pero me molieron a palos, dejándome aquí malherido. 
+—No busques más, Eneko: tu madre está muerta. Lo siento mucho, pero no
+pude hacer nada para salvarla —dijo la voz quejumbrosa de Xalbador,
+uno de sus vecinos—. Han sido los soldados del conde de Eunate,
+nuestro vil enemigo. Cegados por el hambre han ido caserío por caserío,
+intentando llevarse lo poco que nos quedaba —prosiguió—. Ya sabes
+cómo es tu madre: se ha negado rotundamente, enfrentándose a ellos con
+valentía. Como represalia, han quemado el caserío con ella dentro.
+Intenté impedirlo, pero me molieron a palos, dejándome aquí malherido.
+malnacido
 
-—¡Nooooo! —gritó con rabia Eneko, llorando desconsolado—. Primero perdí a padre y ahora a madre. Por no tener, ya ni tengo el caserío que ha sido el hogar de mi familia desde hace tantas generaciones.
-Sin fuerzas se quedó dormido, aferrado a sus recuerdos. 
+—¡Nooooo! —gritó con rabia Eneko, llorando desconsolado—. Primero
+perdí a padre y ahora a madre. Por no tener, ya ni tengo el caserío que
+ha sido el hogar de mi familia desde hace tantas generaciones.
 
-Por la mañana hizo lo único que podía hacer alguien que ya no tenía ni dónde caerse muerto: alistarse en el ejército español. 
+Sin fuerzas se quedó dormido, aferrado a sus recuerdos.
 
-—Hijo, ¿cuál es su nombre? —le preguntó con voz paternal un sargento veterano, que se encargaba del reclutamiento. 
+Por la mañana hizo lo único que podía hacer alguien que ya no tenía ni
+dónde caerse muerto: alistarse en el ejército español.
 
-—Ene…, ¡Íñigo! —se corrigió, utilizando la traducción de su nombre en castellano, como queriendo empezar una vida de nuevo. 
+—Hijo, ¿cuál es su nombre? —le preguntó con voz paternal un sargento
+veterano, que se encargaba del reclutamiento.
 
-—Supongo que también tendrá apellido, ¿no, Íñigo? 
+—Ene..., ¡Íñigo! —se corrigió, utilizando la traducción de su nombre
+en castellano, como queriendo empezar una vida de nuevo.
 
-—¡Jorajuría, señor! —respondió, recordando con orgullo el apellido de su familia. 
+—Supongo que también tendrá apellido, ¿no, Íñigo?
 
-—De acuerdo, recluta Jorajuría. ¡Partiremos mañana al alba! 
+—¡Jorajuría, señor! —respondió, recordando con orgullo el apellido
+de su familia.
 
-—¡Vengaré su muerte, madre!, ¡y también repararé el ultraje de haber destruido nuestro hogar! —gritó Eneko a pleno pulmón entre las ruinas calcinadas del caserío, antes de partir hacia su nuevo destino—. ¡Lo juro por este lugar! 
+—De acuerdo, recluta Jorajuría. ¡Partiremos mañana al alba!
 
-El sonido de un lobo se oyó en la lejanía, al otro extremo del bosque, emitiendo un largo y fuerte aullido, como queriendo transmitir toda su fuerza a Íñigo Jorajuría, el nuevo Eneko.
+—¡Vengaré su muerte, madre!, ¡y también repararé el ultraje de haber
+destruido nuestro hogar! —gritó Eneko a pleno pulmón entre las ruinas
+calcinadas del caserío, antes de partir hacia su nuevo destino—. ¡Lo
+juro por este lugar!
+
+El sonido de un lobo se oyó en la lejanía, al otro extremo del bosque,
+emitiendo un largo y fuerte aullido, como queriendo transmitir toda su
+fuerza a Íñigo Jorajuría, el nuevo Eneko.
+
+## La batalla de San Quintín
+
+Notas del autor:
+
+Este relato está basado en una batalla real (la de San Quintín), que
+ocurrió el día de San Lorenzo mártir (el diez de agosto de 1557) y que
+supuso un punto de inflexión en las relaciones entre los reinos de
+Francia (gobernada por el rey Enrique II) y España (gobernada por el rey
+Felipe II). En la batalla salieron victoriosos los españoles, que
+prácticamente descabezaron al ejército francés.
+
+Fuente:
+<https://elretohistorico.com/batalla-de-san-quintin-el-triunfo-decisivo-de-felipe-ii/>
+
+****
+
+### Diez de agosto del año de Nuestro Señor de mil quinientos cincuenta y siete
+
+Habíamos cruzado la frontera francesa dispuestos a realizar un ataque
+relámpago a primeros de agosto. Partimos desde Luxemburgo, en dónde las
+fuerzas imperiales de nuestro recién estrenado rey Felipe II estábamos
+acuarteladas, con la idea de despejar el camino a París y asestar un
+golpe mortal en el mismísimo corazón de Francia.
+
+—¡Rediós, Íñigo, espabila! ¡Que en cualquier momento entraremos en
+acción! —me sacó de mis pensamientos la voz grave del alférez Julián
+San Pedro acompañada de uno de sus sonoros sopapos en la espalda, con
+los que me solía deleitar de cuando en cuando.
+
+Nos conocimos diez años atrás en la plaza de Burgos, al alistarnos en
+los Tercios Españoles, cuando éramos unos reclutas inexpertos. Yo huía
+de mi pasado escondido tras un frondoso bigote; él lo hacía de la
+hambruna que azotaba a su pueblo natal de Teruel, donde era cabrero. Un
+poco mayor que yo —y también más bruto—, Julián se había ganado a
+pulso los galones de alférez durante una de las numerosas escaramuzas
+entre Francia y España en las Guerras de Italia, donde nos habían
+destinado y terminamos de curtirnos como soldados. Recogió el estandarte
+ensangrentado de nuestra compañía, que portaba nuestro anterior alférez
+Baltasar Miranda (que no lo soltó ni aun estando muerto), y nos guio con
+arrojo hasta ponernos a salvo durante aquella atroz escabechina.
+
+—¡Mal año tengan estos mosquitos! —se le escapó a uno de los
+arcabuceros mientras palmeaba con fuerza su sudoroso cuello para
+espantar a los incómodos insectos.
+
+Nos encontrábamos emboscados en una zona pantanosa a la orilla del río
+Somme. El comandante asignado por nuestro rey Felipe II para liderar la
+misión, Manuel Filiberto (duque de Saboya), hizo creer a los franceses
+que iniciaríamos la invasión por la región de Champaña sitiando la
+ciudad de Guisa, haciendo que el grueso de las tropas enemigas partiera
+rumbo a dicha ciudad. En realidad, el joven duque, que había sido
+completamente subestimado por nuestro enemigo, se dirigió hacia San
+Quintín, localidad de la Picardía situada a orillas del río Somme, que
+con un mínimo esfuerzo por nuestra parte conseguimos sitiar.
+
+—¡Qué mal huele esta ciénaga putrefacta! —decía otro soldado que
+estaba escondido entre la maleza.
+
+Esos perros franceses habían mordido nuestro cebo. Mandaron un primer
+contingente de refuerzo que dejamos entrar en la ciudad para que
+creyesen que podrían resistir nuestro asedio. Seguidamente, el ejército
+enemigo al completo se aproximó a marchas forzadas hacia nosotros
+dirigido por el experimentado condestable Montmorency, el cual avanzaba
+seguro de su victoria.
+
+—¡Qué nadie abra fuego hasta que el grueso de las tropas enemigas se
+encuentre en mitad del río! —nos había ordenado el capitán Sánchez, el
+oficial al mando de nuestra compañía, un poco antes de colocarnos en
+posición.
+
+El joven duque de Saboya había dispuesto sus tropas de manera
+estratégica como si el campo de batalla fuese un gran tablero de juego.
+Nosotros, los infantes del Tercio Viejo de Nápoles, estábamos apostados
+en la orilla más cercana a la ciudad. Los temibles jinetes del conde de
+Egmont, que comandaba nuestra caballería, habían conseguido hacer un
+movimiento envolvente para colocarse en la retaguardia de las tropas
+francesas. Por último, ocultos en los bosques cercanos, se encontraban
+el duque, sus generales y el grueso de nuestro ejército.
+
+— ¡Quitadme de encima este asqueroso bicho! —gritaba horrorizado
+otro de los arcabuceros al notar que una enorme rata se le colaba entre
+los calzones.
+
+— ¡Chitón! ¡No hagáis ni un solo ruido más! —ordenó el alférez San
+Pedro mientras a lo lejos se escuchaba el tronar del ejército
+enemigo—¡Qué seguros tocan el tambor esos malnacidos!
+
+Poco a poco, las tropas enemigas se iban aproximando a la rivera opuesta
+del río. Empezaron a cruzar por el único puente fijo que lo atravesaba y
+también por otros pontones improvisados.
+
+—¡Continuad, seguid avanzando sin miedo, que estos miserables
+españoles no suponen ningún peligro! —ordenaba confiado el mismísimo
+Montmorency—¡Ese inepto del duque de Saboya va a saber lo que es
+bueno!
+
+—¡Aguantad un poco más, por vuestra madre! —susurraba el alférez San
+Pedro.
+
+Lo que desconocía el condestable Montmorency era que habíamos
+descubierto una vaguada en el río, oculta para los franceses, por la que
+el grueso de nuestra tropa podría llegar con rapidez a las afueras de la
+ciudad y presentar batalla.
+
+—¡Ahora! ¡Disparad, no dejéis títere con cabeza! —ordenaba el
+alférez al ver que las tropas enemigas se encontraban en mitad del río.
+
+Todos los arcabuceros dispararon al unísono, lo que provocó un gran
+estruendo que hizo correr por el cauce un auténtico río de sangre. Al
+mismo tiempo, la caballería del conde de Egmont cargaba desde la
+retaguardia con fuerza e impedía la retirada de los franceses.
+
+—¡Caen como moscas! —gritaba emocionado un joven arcabucero al ver
+tamaña sangría.
+
+—¡Cargad de nuevo! ¡Disparad! —arengaba nuestro alférez.
+
+—¡Vadeen el río, hay que cruzarlo a toda costa! —gritaba desesperado
+un capitán francés justo antes de que su cabeza se vaciase de sesos al
+ser alcanzada por uno de nuestros disparos.
+
+Arengadas por el alboroto, nuestras tropas salieron de su escondrijo y
+atravesaron el río en poco tiempo plantándose delante de los franceses.
+Mis compañeros infantes y yo nos colocamos en el centro del campo de
+batalla en formación preparados para el cuerpo a cuerpo. Mientras los
+piqueros hacían de las suyas arremetiendo contra la caballería enemiga y
+esparcían tripas y sangre por doquier, los mosqueteros nos abalanzábamos
+sobre el sorprendido enemigo blandiendo las espadas al tiempo que las
+balas de los arcabuceros silbaban por encima de nuestras cabezas. Muchos
+de los franceses empezaron a rendirse intentando salvar su vida.
+
+—¡Fijaos bien en sus ropajes: apresad a los nobles y pasad a cuchillo
+al resto de malnacidos! —nos ordenó el alférez—. ¡Cuánto más suave
+sea su paño al tacto, más nobleza tendrá el reo y más pagarán por su
+rescate! —recalcó con un brillo codicioso asomándose por sus ojos.
+
+—¡Morid, hideputa francés! —escuché decir con acento sevillano a un
+mosquetero mientras le rebanaba el gaznate a su oponente.
+
+—¿Quién sois vos? —le pregunté—. Yo soy Íñigo Jorajuría y
+pertenezco a la décimo primera compañía del Tercio Viejo de Nápoles
+—me presenté mientras mi afilada espada partía en dos a mi oponente
+rasgando sus carnes entre gritos de dolor y mi cara quedaba salpicada
+por su sangre.
+
+—Mi nombre es Diego Alcázar y pertenezco a la quinta compañía del
+Tercio Viejo de Sicilia —me contestó con una amplia sonrisa.
+
+Todos nos afanamos en seguir guerreando sin descanso. Acosando a
+nuestros enemigos como los chacales lo hacen con sus presas, estos
+acabaron sometidos o muertos por las espadas, picas y arcabuces. Un poco
+antes del anochecer dejamos de pelear, agotados. El campo de batalla se
+había llenado de cadáveres, de miembros mutilados y de soldados
+malheridos, la mayoría franceses. El aroma a muerte del aire casi se
+podía masticar de tan espeso que era.
+
+El alférez San Pedro iba de un lado a otro poseído por la codicia
+mientras encerraba en una especie de cercado improvisado a los nobles
+que se rendían, recordando sus tiempos de cabrero en Teruel.
+
+—¿Le escuece la derrota a su vuecencia? —se mofaba el alférez
+dirigiéndose al condestable Montmorency, que había sido capturado por
+uno de nuestros arcabuceros cuando intentaba encontrar una muerte
+honrosa en combate.
+
+—¡Déjelo, mi alférez! ¡Por su plumaje, ese buitre pronto volará junto
+a los de su calaña! —le dijo el infante Alcázar al ver las vestimentas
+del noble—. Además, ese cuervo no entiende lo que le dice, ¡que no
+grazna en cristiano!
+
+—Y tú sevillano, ¿quién te dio vela en este entierro? —le preguntó
+el alférez a Diego.
+
+—Yo respondo por él, Julián —le interrumpí—. Se llama Diego
+Alcázar, y tiene la espada tan afilada como su lengua.
+
+### Epílogo
+
+Después de la clamorosa derrota francesa, la guarnición de San Quintín
+quedó aislada. La ciudad capituló unos días más tarde, el veintisiete de
+agosto.
+
+La superioridad española fue aplastante. Las bajas francesas superaron
+las diez mil entre muertos y cautivos; las españolas apenas llegaron a
+las seiscientas.
+
+Aunque Francia quedó expuesta, la carencia de recursos y la prudencia de
+Felipe II impidieron el ataque sobre París.
+
+En honor a este glorioso día, Felipe II erigió el real monasterio de San
+Lorenzo de El Escorial, a unos cincuenta kilómetros de la ciudad de
+Madrid.
 
 ## La guerra de Flandes
 
-Llevábamos varias jornadas caminando entre nieblas y humedades, sin apenas comer ni descansar, con el maldito frío clavándose en nuestros huesos. Ni siquiera nuestras capas, hechas unos harapos, servían ya para protegernos. 
+Llevábamos varias jornadas caminando entre nieblas y humedades, sin
+apenas comer ni descansar, con el maldito frío clavándose en nuestros
+huesos. Ni siquiera nuestras capas, hechas unos harapos, servían ya para
+protegernos.
 
-Por fin nos encontrábamos frente al ejército protestante, esos herejes malnacidos que habían osado sublevarse contra nuestra Santa Madre Iglesia y nuestro rey Felipe II. 
+Por fin nos encontrábamos frente al ejército protestante, esos herejes
+malnacidos que habían osado sublevarse contra la Santa Madre Iglesia y
+nuestro rey Felipe II.
 
-—Vaya tiempo de los demonios que hace —le dije a mi compañero Íñigo, que se encontraba pegado a mí, dándonos calor mutuamente—. Tú eres del norte de Navarra y estarás acostumbrado a este frío, pero yo soy de Sevilla y no puedo con él. 
+—Vaya tiempo de los demonios que hace —le dije a mi compañero Íñigo,
+que se encontraba pegado a mí, dándonos calor mutuamente—. Tú eres de
+la montaña navarra y estarás acostumbrado a este frío, pero yo soy de
+Sevilla y no puedo con él.
 
-—¡Nos ha jodido el marqués! Por el tiempo que llevamos aquí, tú también deberías estarlo, Diego. Somos ya galgos viejos, incluso demasiado, como para seguir luchando en esta maldita guerra. Mal pagados, mal comidos y mal vestidos…, ¡ni catar hembra nos dejan! —me dijo con una sonrisa pícara en los labios, ocultos tras un frondoso bigote peinado de canas. 
+—¡Nos ha jodido el marqués! Por el tiempo que llevamos aquí, tú
+también deberías estarlo, Diego. Somos ya galgos viejos, incluso
+demasiado, como para seguir luchando en esta maldita guerra. Mal
+pagados, mal comidos y mal vestidos..., ¡ni catar hembra nos dejan!
+—me dijo con una sonrisa pícara en los labios, ocultos tras un
+frondoso bigote peinado de canas.
 
+—Entonces, ¿por qué estamos aquí?
 
-—Entonces, ¿por qué estamos aquí? 
+—Pues para hacer honor a los famosos versos, «España mi natura, Italia
+mi ventura, Flandes mi sepultura» —recitó con sorna—. Ya conoces
+nuestras órdenes: debemos apoyar al tercer duque de Alba —el *Gran
+Duque*— para que pueda capturar al jefe de los rebeldes, Guillermo de
+Orange, y llevarlo ante el rey para que rinda cuentas por el alzamiento
+en Flandes.
 
-—Pues para hacer honor a los versos que ya conoces: «España mi natura, Italia mi ventura, Flandes mi sepultura» —recitó con sorna—. Ya conoces nuestras órdenes: debemos apoyar al tercer duque de Alba —el Gran Duque— para que pueda capturar al jefe de los rebeldes, Guillermo de Orange, y llevarlo ante el rey para que rinda cuentas por el alzamiento en Flandes. 
+—Si no fuera porque le debo lealtad a España y respeto a la memoria
+del que nos enseñó a pelear con honor y valentía, don Gonzalo Fernández
+de Córdoba (el *Gran Capitán y* padre de los Tercios Españoles), le iban
+a ir dando al duque, que nos manda a guerrear como el que lleva a unos
+borregos al degolladero.
 
-—Si no fuera porque le debo lealtad a España y respeto a la memoria del que nos enseñó a pelear con honor y valentía, don Gonzalo Fernández de Córdoba (el Gran Capitán y padre de los Tercios Españoles), le iban a ir dando al duque, que nos manda a guerrear como el que lleva a unos borregos al degolladero. 
+—¡Callaos, copón! —nos recriminó el alférez San Pedro, que dirigía
+nuestro grupo y que también era veterano—. Manteneos en silencio y
+guardad las fuerzas, que en breve se nos echará encima la caballería
+enemiga.
 
-—¡Callaos, copón! —nos recriminó el alférez San Pedro, que dirigía nuestro grupo y que también era veterano—. Manteneos en silencio y guardad fuerzas, que en breve se nos echará encima la caballería enemiga.
-Estábamos en formación, listos para el combate. En primera fila se colocaban los soldados más jóvenes y fuertes, los piqueros, preparados para destrozar a la caballería enemiga con sus largas lanzas. Los arcabuceros se situaban inmediatamente detrás, con sus armas de fuego, dispuestos a hacer estragos entre las tropas enemigas disparando bolas de plomo. Finalmente, y detrás de los arcabuceros, nos situábamos los más veteranos y hábiles en el arte de la espada, expertos en los combates cuerpo a cuerpo, peleando muchas veces con más maña que fuerza. 
+Estábamos en formación, listos para el combate. En primera fila se
+colocaban los soldados más jóvenes y fuertes, los piqueros, preparados
+para destrozar a la caballería enemiga con sus largas lanzas. Los
+arcabuceros se situaban inmediatamente detrás, con sus armas de fuego,
+dispuestos a hacer estragos entre las tropas enemigas disparando bolas
+de plomo. Finalmente, y detrás de los arcabuceros, nos situábamos los
+más veteranos y hábiles en el arte de la espada, expertos en los
+combates cuerpo a cuerpo, peleando muchas veces con más maña que fuerza.
 
-—¡Atentos, que se acercan! —nos advirtió el alférez al comprobar que el ejército enemigo empezaba a dirigirse hacia nosotros—. ¡Pardiez, Jiménez, sujete con firmeza su lanza y deje de temblar! —ordenó al más joven de los piqueros, que no tenía más de dieciséis años de edad, huérfano de madre. 
+—¡Atentos, que se acercan! —nos advirtió el alférez al comprobar que
+el ejército enemigo empezaba a dirigirse hacia nosotros—. ¡Pardiez,
+Jiménez, sujete con firmeza su lanza y deje de temblar! —ordenó al más
+joven de los piqueros, que no tenía más de quince años de edad, huérfano
+de madre.
 
-—¡Fuego a discreción! —ordenó a los arcabuceros. 
+—¡Fuego a discreción! —ordenó a los arcabuceros.
 
-Las armas de fuego empezaron a tronar y un enjambre de bolas de plomo se dirigió silbando hacia las tropas enemigas cortando el aire, dejando tras de sí una nube blanca y densa con un fuerte olor a pólvora quemada. El plomo impactó inmisericorde contra los herejes, provocando alaridos de dolor mientras sus cuerpos caían inertes al suelo. El campo de batalla se tiñó de rojo y la humedad de la niebla se mezcló con el olor a miedo, muerte y destrucción. La batalla había comenzado. 
+Las armas de fuego empezaron a tronar y un enjambre de bolas de plomo se
+dirigió silbando hacia las tropas enemigas cortando el aire, dejando
+tras de sí una nube blanca y densa con un fuerte olor a pólvora quemada.
+El plomo impactó inmisericorde contra los herejes, provocando alaridos
+de dolor mientras sus cuerpos caían inertes al suelo. El campo se tiñó
+de rojo y la humedad de la niebla se mezcló con el olor a miedo, muerte
+y destrucción. La batalla había comenzado.
 
-—¡Bien hecho! —nos alentó el alférez—. ¡Levantad las picas, que llega la caballería! 
+—¡Bien hecho! —nos alentó el alférez—. ¡Levantad las picas, que
+llega la caballería!
 
-El sonido de los cascos de los caballos enemigos se fundió con el del crujir de huesos chocando contra las largas lanzas; por el campo ya corrían ríos de sangre y nosotros, los más veteranos, todavía no habíamos entrado en combate. Asombrosamente, no habíamos sufrido ninguna baja. 
+El sonido de los cascos de los caballos enemigos se fundió con el del
+crujir de huesos chocando contra las largas lanzas; por el campo ya
+corrían ríos de sangre y nosotros, los más veteranos, todavía no
+habíamos entrado en combate. Asombrosamente, no habíamos sufrido ninguna
+baja.
 
-—¡Avanzad! ¡Por el duque de Alba! ¡Por los Tercios! ¡Por España! —arengó el alférez, envalentonado. 
+—¡Avanzad! ¡Por el duque de Alba! ¡Por los Tercios! ¡Por España!
+—arengó el alférez, envalentonado.
 
-Mientras adelantábamos la posición, los arcabuceros recargaban sus armas, introduciendo la pólvora y las bolas de plomo en el cañón y dejando las mechas listas para ser prendidas. 
+Mientras adelantábamos la posición, los arcabuceros recargaban sus
+armas, introduciendo la pólvora y las bolas de plomo en el cañón y
+dejando las mechas listas para ser prendidas.
 
-—Yo por ese cabrón no movería ni el dedo meñique —se me escapó mientras Íñigo reía entre dientes. 
+—Yo por ese cabrón no movería ni el dedo meñique —se me escapó
+mientras Íñigo reía entre dientes.
 
-El segundo envite fue más cruento. Algunos piqueros no aguantaron la carga y murieron pisoteados por los caballos. Los arcabuceros tuvieron que blandir sus espadas y nosotros batirnos el cobre por primera vez en la pelea. 
+El segundo envite fue más cruento. Algunos piqueros no aguantaron la
+carga y murieron pisoteados por los caballos. Los arcabuceros tuvieron
+que blandir sus espadas y nosotros batirnos el cobre por primera vez en
+la pelea.
 
-—¡Apúrate, Íñigo, que estos endemoniados herejes se manejan bien con la espada! —dije repartiendo unas cuantas estocadas, deshaciéndome de dos atacantes con facilidad. 
+—¡Apúrate, Íñigo, que estos endemoniados herejes se manejan bien con
+la espada! —dije repartiendo unas cuantas estocadas, deshaciéndome de
+dos atacantes con facilidad.
 
-—¡Calla y vigila tu flanco izquierdo que por el hedor atufa a francés! —respondía mirándome de reojo mientras que, de una patada, se quitaba de en medio a otro enemigo. 
+—¡Calla y vigila tu flanco izquierdo que por el hedor atufa a francés!
+—respondía mirándome de reojo mientras que, de una patada, se quitaba
+de en medio a otro enemigo.
 
-—¡Gracias, Íñigo! —dije resoplando mientras dirigía mis envites contra el francés, que se me acercaba peligrosamente—. ¡Malnacidos! ¡Cómo os gusta jodernos a los españoles! ¡Qué envidia nos tenéis! ¡Vosotros, los franceses y los ingleses, siempre metiendo vuestras sucias narices donde no os llaman! 
+—¡Gracias, Íñigo! —dije resoplando mientras dirigía mis envites
+contra el francés, que se me acercaba peligrosamente—. ¡Malnacidos!
+¡Cómo os gusta jodernos a los españoles! ¡Qué envidia nos tenéis!
+¡Vosotros, los franceses y los ingleses, siempre metiendo vuestras
+sucias narices donde no os llaman!
 
-—Goûte à mon sabre, graine du mal! —farfulló el francés mientras me atacaba. 
+—Goûte à mon sabre, graine du mal! —farfulló el francés mientras me
+atacaba.
 
-—¡Dad recuerdos a Satanás de mi parte, hideputa, que no entiendo ni una palabra de lo que me dices! —le contesté, rebanándole de un mandoble el gaznate, del que salió un chorro de sangre a borbotones. 
+—¡Dad recuerdos a Satanás de mi parte, hideputa, que no entiendo ni
+una palabra de lo que me dices! —le contesté, rebanándole de un
+mandoble el gaznate, del que salió un chorro de sangre a borbotones.
 
-En el campo de batalla, el panorama no era muy alentador: nuestras tropas habían mermado en demasía y las escaramuzas se sucedían una tras otra, sin un claro atisbo de victoria. A pesar de ello, seguíamos avanzando hacia nuestro objetivo, el príncipe de Orange. 
+En el campo de batalla, el panorama no era muy alentador: nuestras
+tropas habían mermado en demasía y las escaramuzas se sucedían una tras
+otra, sin un claro atisbo de victoria. A pesar de ello, seguíamos
+avanzando hacia nuestro objetivo, el príncipe de Orange.
 
-—Mala pinta le veo yo a este asunto, compadre —dije desanimado. 
+—Mala pinta le veo yo a este asunto, compadre —dije desanimado.
 
-—Otro ataque más y los piqueros perderán la vida o huirán despavoridos víctimas del miedo, dejándonos con el calzón al aire —dijo Íñigo de forma premonitoria. 
+—Otro ataque más y los piqueros perderán la vida o huirán despavoridos
+víctimas del miedo, dejándonos con el calzón al aire —dijo Íñigo de
+forma premonitoria.
 
-La caballería flamenca volvió a la carga, deshaciendo por completo el orden entre nuestros piqueros, masacrándolos. 
+La caballería flamenca volvió a la carga, deshaciendo por completo el
+orden entre nuestros piqueros, masacrándolos.
 
-—¡Aguanta un poco, zagal, que pronto acabará la batalla! ¡Todo irá bien, vas a encontrarte con tu madre en el cielo! —prometí a Jiménez intentando darle consuelo, apretando con fuerza sus manos ensangrentadas. 
+—¡Aguanta un poco, zagal, que pronto acabará la batalla! ¡Todo irá
+bien, vas a encontrarte con tu madre en el cielo! —prometí a Jiménez
+intentando darle consuelo, apretando con fuerza sus manos
+ensangrentadas.
 
-«Qué injusta es la vida», pensé al ver aquel cuerpo de niño tirado en el suelo, reventado y pisoteado, con sus tripas esparcidas por doquier. 
+«Qué injusta es la vida», pensé entristecido, al ver aquel cuerpo de
+niño tirado en el suelo, reventado y pisoteado, con sus tripas
+esparcidas por doquier.
 
-Ya todos peleábamos a espada. 
+Ya todos peleábamos a espada.
 
-—¡Reorganizaos! ¡Diego, toma unos hombres y ataca por la derecha! ¡Íñigo, tú por la izquierda! ¡Yo me encargo del centro! —planteó el alférez San Pedro. 
+—¡Reorganizaos! ¡Diego, toma unos hombres y ataca por la derecha!
+¡Íñigo, tú por la izquierda! ¡Yo me encargo del centro! —planeó el
+alférez San Pedro.
 
-—¡A sus órdenes! —gritamos los dos al unísono. 
+—¡A sus órdenes! —gritamos los dos al unísono.
 
-Mientras tanto, en retaguardia, el duque cabalgaba pomposo junto a sus lugartenientes, a una distancia más que prudencial. 
+Mientras tanto, en retaguardia, el duque cabalgaba pomposo junto a sus
+lugartenientes, a una distancia más que prudencial.
 
-Poco a poco logramos abrirnos paso, repartiendo estocadas a diestro y siniestro, hasta crear una brecha en las defensas enemigas que protegían a su caudillo, pero pagando por ello un alto precio: de las veinte compañías que formaban el Tercio prácticamente en todas, en menor o mayor medida, se sufría alguna baja. En la nuestra, quedábamos en pie una cincuentena de hombres, la mayor parte espadachines, aunque también algún arcabucero que se sabía manejar bien con la espada. Por su parte, las bajas entre las tropas enemigas también eran cuantiosas. 
+Poco a poco logramos abrirnos paso, repartiendo estocadas a diestro y
+siniestro, hasta crear una brecha en las defensas enemigas que protegían
+a su caudillo, pero pagando por ello un precio muy alto: de las veinte
+compañías que formaban el Tercio prácticamente en todas, en menor o
+mayor medida, se sufría alguna baja. En la nuestra, quedábamos en pie
+una cincuentena de hombres, la mayor parte espadachines, aunque también
+algún arcabucero que se sabía manejar bien con la espada. Por su parte,
+las bajas entre las tropas enemigas también eran cuantiosas.
 
-De repente, el sonido de las trompetas de ambos bandos anunció el parar de guerrear. Nos agrupamos de nuevo, ya muy cerca de nuestro objetivo. 
+De repente, el sonido de las trompetas de ambos bandos anunció el parar
+de guerrear. Nos agrupamos de nuevo, ya muy cerca de nuestro objetivo.
 
-—¡La puta que los parió! Ya estamos como siempre, Íñigo. Ahora se acercarán a parlamentar entre ellos —grité enfadado, señalando hacia la retaguardia. Mientras nosotros, la soldadesca, nos dejamos las tripas batallando, ellos se pondrán a charlar como si nada, sin siquiera ensuciar de polvo sus caros ropajes. 
+—¡La puta que los parió! Ya estamos como siempre, Íñigo. Ahora se
+acercarán a parlamentar entre ellos —grité enfadado, señalando hacia
+la retaguardia—. Mientras nosotros, la soldadesca, nos dejamos las
+tripas batallando, ellos se pondrán a dialogar como si nada, sin
+siquiera ensuciar de polvo sus caros ropajes.
 
-—Tienes toda la razón, Diego —corroboró mi compañero—. Nos utilizan como peones de ajedrez, sin importarles lo más mínimo lo que nos pase. Esto ya no es lo que era, cuando los mandos combatían junto a nosotros, mano a mano, allá en Italia. 
+—Tienes toda la razón, Diego —corroboró mi compañero—. Nos
+utilizan como peones de ajedrez, sin importarles lo más mínimo lo que
+nos pase. La guerra ya no es lo que era, cuando los mandos combatían
+junto a nosotros, mano a mano, allá en Italia.
 
-—¡Callaos de una puta vez, maldita sea! —nos ordenó el alférez, nervioso al ver que se acercaba el capitán Sánchez, comandante de nuestra compañía, veterano como nosotros.  
+—¡Callaos de una puta vez, maldita sea! —nos ordenó el alférez,
+nervioso al ver que se acercaba el capitán Sánchez, comandante de
+nuestra compañía y veterano como nosotros.
 
-Al mismo tiempo, un caballero se aproximaba desde la retaguardia. Era el mismísimo Fernando Álvarez de Toledo y Pimentel, el tercer duque de Alba, cabalgando sobre su corcel de manera solemne, cubierto con una reluciente armadura repleta de insignias. Una banda en su pecho destacaba especialmente, la de la Insigne Orden de Caballería del Toisón de Oro, otorgada por el emperador Carlos I de España y V de Alemania. 
+Al mismo tiempo, un caballero se aproximaba desde la retaguardia. Era el
+mismísimo don Fernando Álvarez de Toledo y Pimentel, el tercer duque de
+Alba, cabalgando sobre su caballo de manera solemne, cubierto con una
+armadura reluciente, repleta de insignias. Una banda en su pecho
+destacaba especialmente, la de la Insigne Orden de Caballería del Toisón
+de Oro, otorgada por el emperador Carlos I de España y V de Alemania.
 
-—Ya te decía yo que este no se había manchado las manos de sangre —susurré a Íñigo al ver lo limpio que iba el duque mientras el alférez San Pedro me fulminaba con su mirada. 
+—Ya te decía yo que este cuervo no se había manchado las garras de
+sangre —susurré a Íñigo al ver lo limpio que iba el duque mientras el
+alférez San Pedro me fulminaba con su mirada.
 
-—Capitán Sánchez, solicito de vuesa merced un grupo de soldados que me sirvan de escolta para ir a parlamentar con el enemigo —ordenó el duque. 
+—Capitán Sánchez, solicito de vuesa merced un grupo de soldados que me
+sirvan de escolta para ir a parlamentar con el enemigo —ordenó el
+duque.
 
-—¡A sus órdenes, excelentísimo señor! —respondió el capitán cuadrándose mientras nos repasaba con su mirada, de arriba abajo—. Alférez San Pedro, ¡venga aquí y traiga a sus mejores hombres! ¡Por supuesto, los soldados Diego Alcázar e Iñigo Jorajuría deben ser de la partida! 
+—¡A sus órdenes, excelentísimo señor! —respondió el capitán,
+cuadrándose mientras nos repasaba con su mirada de arriba abajo—.
+Alférez San Pedro, ¡venga aquí y traiga a sus mejores hombres! Por
+supuesto, los soldados Diego Alcázar e Íñigo Jorajuría deben ser de la
+partida —apostilló el capitán mirándonos con autoridad.
 
-El alférez eligió a los soldados más experimentados, entre los que Iñigo y yo nos encontrábamos. Todos portábamos espadas tizonas, forjadas con el mejor acero toledano. Escondida entre mis ropajes, a buen recaudo y en lugar no visible, mi daga afilada, que me había sacado de más de un aprieto. 
+El alférez seleccionó a los soldados más aguerridos y veteranos para la
+misión. Todos portábamos espadas tizonas, forjadas con el mejor acero
+toledano. Escondida entre mis ropajes, a buen recaudo y en lugar no
+visible, oculté mi daga afilada, que me había sacado de más de un
+aprieto.
 
-Rodeamos al duque de Alba y empezamos a movernos lentamente. En el otro lado, en las tropas enemigas, otro caballero y su escolta hicieron lo mismo. Nos encontraríamos a mitad de camino, en una especie de zona de nadie de terreno neutral, lo suficientemente alejada de ambos bandos. Al cabo de unos cuantos minutos, que se me hicieron eternos, llegamos al lugar elegido. Don Fernando comenzó a hablar: 
+Rodeamos al duque de Alba y empezamos a movernos lentamente. En el otro
+lado, en las tropas enemigas, otro caballero y su escolta hicieron lo
+mismo. Nos encontraríamos a mitad de camino, en terreno neutral, lo
+suficientemente alejados de ambos bandos. Al cabo de unos cuantos
+minutos, que se me hicieron eternos, llegamos al lugar elegido. Don
+Fernando comenzó a hablar.
 
-—Buenos días, Guillermo. Por nuestra antigua amistad, te ruego que cejes en tu empeño. Depón las armas, que ya ha corrido mucha sangre en esta contienda —dijo el duque, levantando la celada del casco para hacerlo. 
+—Buenos días, Guillermo. Por nuestra antigua amistad, te ruego que
+cejes en tu empeño. Depón las armas, que ya ha corrido mucha sangre en
+esta contienda —dijo el duque, levantando la celada del casco para
+hacerlo.
 
-—Jamais! —dijo en francés su oponente. 
+—Jamais! —dijo en francés su oponente.
 
-—¿Quién sois vos?  —preguntó el duque sorprendido al no reconocer la voz de su interlocutor—¡Es una trampa! ¡A las armas! —ordenó, apartándose a un lado. 
+—¿Quién sois vos? —preguntó el duque, sorprendido al no reconocer la
+voz de su interlocutor—¡Es una trampa! ¡A las armas! —ordenó,
+apartándose a un lado.
 
-—Ya estamos como siempre, Íñigo. ¡Otra vez a sacarnos las castañas del fuego nosotros mismos! 
+—Ya estamos como siempre, Íñigo. ¡Otra vez a sacarnos las castañas del
+fuego nosotros mismos!
 
-Desenvainamos nuestras espadas, dispuestos a la lucha. Nuestros oponentes, la mayoría soldados mercenarios de origen francés, experimentados como nosotros, hicieron lo mismo. El ruido del choque de las espadas era ensordecedor y las peleas eran continuas. 
+Desenvainamos nuestras espadas, dispuestos a la lucha. Nuestros
+oponentes, la mayoría soldados mercenarios de origen francés,
+experimentados como nosotros, hicieron lo mismo. El ruido del choque de
+las espadas era ensordecedor y las peleas continuas.
 
-—¡Probad el acero español, miserable francés! —espeté a mi contrincante, hiriéndolo mortalmente tras varios intentos fallidos. 
+—¡Probad el acero español, miserable francés! —espeté a mi
+contrincante, hiriéndolo mortalmente tras varios intentos fallidos.
 
-Después de un buen rato entretenido, pude mirar a mi alrededor. Aparte de mí, los únicos soldados de nuestro bando que seguían en pie eran el alférez San Pedro y mi compañero Íñigo, que se encontraban rodeados de enemigos. En cuanto a los caballeros, el falso don Guillermo había huido vilmente y don Fernando había descabalgado, espada en mano, llevándose por delante a unos cuantos rivales, ensuciando de sangre su flamante armadura. 
+Después de un buen rato entretenido, pude mirar a mi alrededor. Aparte
+de mí, los únicos soldados de nuestro bando que seguían en pie eran el
+alférez San Pedro y mi compañero Íñigo, que se encontraban rodeados de
+enemigos. En cuanto a los caballeros, el falso Guillermo había huido
+vilmente; don Fernando había descabalgado, espada en mano, llevándose
+por delante a unos cuantos rivales, ensuciando de sangre su flamante
+armadura.
 
-—¡Por España! ¡Continuad combatiendo, que aún no ha llegado nuestra hora! —nos ordenó el duque mientras aguantaba su pesada espada con las dos manos, dispuesto a vender cara su vida. 
+—¡Por España! ¡Continuad combatiendo, que aún no ha llegado nuestra
+hora! —nos ordenó el duque mientras aguantaba su pesada espada con las
+dos manos, dispuesto a vender cara su vida.
 
-—¡Por el pobre Jiménez! —exclamó emocionado el alférez San Pedro soltando una estocada mortal a su contrincante. 
+—¡Por el pobre Jiménez! —exclamó emocionado el alférez San Pedro,
+soltando una estocada mortal a su contrincante.
 
-—¡Por todos los compañeros caídos! —gritó Íñigo abalanzándose como un poseso sobre los dos últimos combatientes enemigos, que cayeron muertos víctimas de su ira. 
+—¡Por todos los compañeros caídos! —gritó Íñigo abalanzándose como
+un poseso sobre los dos últimos combatientes enemigos, que cayeron
+muertos víctimas de su ira.
 
-Se hizo el silencio. Todos, incluso el duque estábamos cubiertos de vísceras y de sangre. Como lobos que cazan en manada fuimos a reunirnos en el centro del lugar de la batalla. 
+Se hizo el silencio. Todos, incluso el duque, estábamos cubiertos de
+vísceras y de sangre. Como lobos que cazan en manada fuimos a reunirnos
+en el centro del terreno.
 
-—¡Habéis combatido con fuerza y honor, soldados! —dijo don Fernando haciendo una reverencia, agradecido—. Sois dignos de pertenecer a los Tercios. Se nota que os enseñó bien don Gonzalo, nuestro Gran Capitán. 
+—¡Habéis combatido con fuerza y honor, soldados! —dijo don Fernando
+haciendo una reverencia, agradecido—. Sois dignos de pertenecer a los
+Tercios. Se nota en vuestro guerrear la mano del maestro don Gonzalo,
+nuestro G*ran Capitán*.
 
-De repente, uno de los mercenarios, medio moribundo, se abalanzó sobre el duque, intentando clavarle su espada. 
+De repente, uno de los mercenarios se incorporó medio moribundo,
+abalanzándose sobre el duque, intentando clavarle su espada.
 
-—¡Muere, sucia rata traidora! —grité mientras lanzaba con rabia mi daga, que se clavó en la garganta del vil mercenario, muriendo en el acto. 
+—¡Muere, sucia rata traidora! —grité mientras le lanzaba con rabia
+mi daga, que se le clavó en el corazón instantáneamente.
 
-—Mucho renegar, pero al final le acabaste salvando el pellejo al Gran Duque, aquí en Flandes —se mofó de mí Íñigo. 
+—Mucho renegar, mucho renegar..., pero al final le acabaste salvando
+el pellejo al *Gran Duque* —se mofó de mí Íñigo.
 
-—¡No me jodas, Íñigo, no me jodas!, que se lo ha merecido con creces luchando —concluí, encogiéndome de hombros. 
+—¡No me jodas, Íñigo, no me jodas!, que se lo ha merecido con creces
+luchando —concluí, encogiéndome de hombros.
 
 ## El viaje de retorno a España
 
@@ -287,7 +741,6 @@ de este clima, capitán —dije en nombre de los tres—. Es hora de
 licenciarnos y de dar paso a los más jóvenes. Aceptaremos la proposición
 que nos hizo el duque.
 
-****
 Estábamos delante del portón principal de la casa de Alba. Nuestro
 aspecto era más que deplorable: ni nuestra ropa, ni nuestras botas daban
 ya más de sí; lo cierto es que parecíamos tres mendigos.
@@ -327,7 +780,6 @@ ante ella y me sacaba mi sombrero, a modo de reverencia—. Mi nombre es
 Julián San Pedro. Llevadnos ante Su Excelencia, que seguro se alegrará
 de vernos.
 
-****
 Nos encontrábamos ante el *Gran Duque de Alba* en el amplio salón
 principal de la casa, de cuyas paredes colgaban lujosos tapices con
 motivos bélicos.
@@ -386,11 +838,10 @@ Miré de reojo a Catalina, que me estaba observando. Nuestras miradas se
 cruzaron y por primera vez vi aquel brillo en sus ojos, que desde
 entonces me hace sentir mariposas en el estómago.
 
-****
 De nuevo, estábamos en presencia del duque, ya más limpios y con mejor
 presencia.
 
-—¡Veo que Catalina os ha sacado lustre! —aprobó al vernos— Podéis
+—¡Veo que Catalina os ha sacado lustre! — aprobó al vernos— Podéis
 retiraos, Catalina. Volved con mi esposa, que reclama vuestra presencia.
 
 Nos quedamos a solas con el de Alba.
@@ -423,7 +874,6 @@ Nervioso, intenté recapacitar: era imposible que el actual conde fuera
 el mismo malnacido que ordenó saquear el caserío de mi familia. Debía
 ser Francisco, su hijo y único heredero.
 
-****
 Al cabo de unas semanas, y siguiendo los planes previstos, estábamos
 preparados para iniciar nuestra aventura.
 
@@ -462,7 +912,6 @@ rastro de aquella arisca mujer que nos había recibido a la entrada del
 caserón del duque de Alba. Entre los dos había surgido una confianza
 mutua, como si nos conociésemos de toda la vida.
 
-****
 Llegamos a Irún, en la frontera con España.
 
 Diego mostraba nuestro salvoconducto a la guardia —nada más y nada
@@ -489,7 +938,6 @@ la nobleza, aprendiendo a ser dama de compañía de la esposa del duque.
 
 Había caído la última barrera que se anteponía entre nosotros.
 
-****
 Continuamos nuestro camino por una antigua calzada romana, que unía las
 poblaciones de Vera de Bidasoa y Sunbilla. Llovía débilmente, como casi
 siempre en aquella región del norte de Navarra. Al instante, reconocí
@@ -539,7 +987,6 @@ Catalina no dijo nada. Apretó aún más mi mano y me miró con dulzura
 mientras la fina lluvia nos mojaba y volvíamos a guarecernos en el
 carruaje.
 
-****
 Llegamos sin novedades a la casa-torre de los Eunate, situada a una
 legua del centro de Doneztebe. La lluvia seguía cayendo débilmente,
 hacía frío y estaba anocheciendo.
@@ -576,7 +1023,6 @@ una cama enorme presidía la estancia.
 en sus ojos mientras saltaba sobre la cama—. ¡Creo que está relleno de
 plumas de ganso!
 
-****
 Me tumbé a su lado y dimos rienda suelta a nuestra pasión desenfrenada.
 
 Nos encontrábamos a la entrada del salón principal, esperando a que el
@@ -642,7 +1088,6 @@ traicionarlo. He hecho un pacto con los franceses: canjearé al príncipe
 Guillermo a cambio de trece arcas repletas de oro. Así, podrás vivir con
 holgura, hija mía.
 
-****
 Justo en ese momento, en el piso inferior, se escuchó un gran estruendo.
 
 Corrí escaleras abajo para ver lo que pasaba.
@@ -687,8 +1132,6 @@ por doquier.
 —¡Chitón, malnacido, que aún os lleváis un trastazo de los míos! —le
 amenazó Diego.
 
-****
-
 Habían pasado varios meses desde que entregamos en Pamplona al príncipe
 de Orange, finalizando con éxito nuestra misión, por lo que recibimos
 una gran cantidad de monedas de plata.
@@ -720,5 +1163,4 @@ aullido de un viejo lobo, como queriendo darnos su bendición.
 En cuanto a Diego y al alférez San Pedro..., todavía se les ve por
 Sunbilla mientras se emborrachan y malgastan sus ganancias por las
 tabernas, en jarras de vino y mujeres de mala vida.
-
 
