@@ -55,7 +55,9 @@ webmaster_verifications:
 
 # Web Analytics Settings
 google_analytics:
-    id: G-NP2LK2K9BP # fill in your Google Analytics ID
+    idGA: G-NP2LK2K9BP # fill in your Google Analytics ID
+    idGTM: GTM-MBDGS63R # fill in your Google Tag Manager ID
+    
 analytics:
   google:
     id: # G-NP2LK2K9BP # fill in your Google Analytics ID

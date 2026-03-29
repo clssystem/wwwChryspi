@@ -2,7 +2,7 @@
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-    gtag('config', '{{ site.google_analytics.id }}');
+    gtag('config', '{{ site.google_analytics.idGA }}');
   
   var savedConsent = localStorage.getItem('cookie-consent') === 'granted' ? 'granted' : 'denied';
 
@@ -10,6 +10,7 @@
     'ad_storage': 'denied',
     'ad_user_data': 'denied',
     'ad_personalization': 'denied',
-    'analytics_storage': savedConsent
+    'analytics_storage': savedConsent,
+    'wait_for_update': 500
   });
 </script>
