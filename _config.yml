@@ -119,7 +119,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: clssystem/wwwChryspi
+    repo: clssystem/misrelatos
     repo_id: R_kgDORn0OrA
     category: Announcements
     category_id: DIC_kwDORn0OrM4C5VZ5
